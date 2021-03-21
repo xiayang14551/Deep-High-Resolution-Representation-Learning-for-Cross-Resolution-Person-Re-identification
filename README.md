@@ -1,7 +1,7 @@
 <div align="center">
   
 # Deep-High-Resolution Representation Learning for Cross-Resolution Person Re-identification
-Journal of IEEE Transactions on Multimedia (Under review) | arXiv:3660003 [cs.CV] 21 Mar 2021
+Journal of IEEE Transactions on Multimedia | arXiv:3660003 [cs.CV] 21 Mar 2021
 <img src="README/fig.png" width="900px"/>
 
 </div>
@@ -10,7 +10,6 @@ Journal of IEEE Transactions on Multimedia (Under review) | arXiv:3660003 [cs.CV
 1. [Introduction](#introduction)
 2. [Usage](#usage)
 3. [Results](#results)
-4. [Acknowledgements](#acknowledgements)
 
 ## Introduction :bookmark:
 
@@ -31,9 +30,3 @@ You may need HRNet-W32-C ImageNet pretrained models or learn more about HRNet: h
 <img src="README/result.png" width="900px"/>
 
 </div>
-
-## Acknowledgements :thumbsup:
-
-- This code is built on [HRNet-Image-Classification](https://github.com/HRNet/HRNet-Image-Classification) and [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch). We thank the authors for sharing their codes. To the great spirit of open source!
-- Thank [Z.Dong](https://github.com/dzc2000) and [H.Wang](https://github.com/Rockdow), they are the most important contributors to the related work of the experiment. If you have any questions in the process of testing, you can send them by email or pose issues.
-- Thanks for the right to use the GPU workstation provided by Nanyang Technological University.
